@@ -7,7 +7,7 @@
     /* This is for mobile */
     @media (max-width: 480px) {
         body {
-            background-color: orange;
+            background-color: pink;
         }
 
         p {
